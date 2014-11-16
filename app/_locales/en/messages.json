@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Resumetube",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Start videos where you left off. If you open any video platform ResumeTube will tell you where you left off. Just one click and continue watching. Just like netflix. :)",
+    "description": "The description of the application"
+  }
+}
